@@ -1,0 +1,18 @@
+# /etc/systemd/system/fromzero-api.service
+[Unit]
+Description=fromzero.ro booking API
+After=network.target
+
+[Service]
+Type=simple
+User=fromzero
+WorkingDirectory=/opt/fromzero/app
+EnvironmentFile=/opt/fromzero/api.env
+ExecStart=/usr/bin/node server/index.js
+Restart=on-failure
+NoNewPrivileges=true
+ProtectSystem=strict
+ReadWritePaths=/opt/fromzero/data
+
+[Install]
+WantedBy=multi-user.target

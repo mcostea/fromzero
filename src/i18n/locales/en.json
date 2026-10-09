@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "code": "en",
+    "label": "EN",
+    "name": "English",
+    "htmlLang": "en",
+    "clock": "utc",
+    "title": "fromzero — MVPs built in one week",
+    "description": "From zero to a working MVP in one week."
+  },
+
+  "nav": {
+    "how": "How it works",
+    "mission": "Mission",
+    "whoami": "Who am I",
+    "deliverables": "Deliverables",
+    "scope": "Scope",
+    "pricing": "Pricing",
+    "cta": "Start your project",
+    "language": "Language"
+  },
+
+  "hero": {
+    "status": "System online",
+    "clockSuffix": "UTC",
+    "titleFrom": "From",
+    "titleZero": "zero",
+    "titleTo": "to",
+    "titleLive": "LIVE",
+    "titleIn": "in",
+    "titleDays": "7 days.",
+    "subtitle": "I build apps on web and mobile — from zero, in one week, powered by AI tools that compress months of engineering into a single focused sprint.",
+    "ctaPrimary": "Start your project",
+    "ctaSecondary": "See the process",
+    "stats": [
+      { "value": "7", "label": "days", "accent": false },
+      { "value": "14", "label": "days support", "accent": false },
+      { "value": "100%", "label": "your code", "accent": true }
+    ],
+    "imageAlt": "Abstract structure forming from light",
+    "projectedLaunch": "Projected launch"
+  },
+
+  "how": {
+    "label": "/ how it works",
+    "title": "One week, three phases.",
+    "intro": "The 7-day cycle is engineered into a tight, predictable rhythm — so you always know what's happening and what's next.",
+    "phases": [
+      {
+        "days": "Days 1–2",
+        "title": "Discover & design",
+        "body": "I define the scope, map the user flow, and lock the architecture. AI helps draft specs, generate copy, and validate ideas before a single line of code.",
+        "points": ["Scope lock", "Flow mapping", "AI-assisted specs"]
+      },
+      {
+        "days": "Days 3–5",
+        "title": "Build & synthesize",
+        "body": "The app takes shape fast. AI-assisted scaffolding, generated components, and automated tests turn the blueprint into working software — iterated daily.",
+        "points": ["AI scaffolding", "Daily builds", "Automated tests"]
+      },
+      {
+        "days": "Days 6–7",
+        "title": "Launch & hand-off",
+        "body": "I polish, deploy, and hand over a live product with docs. What started as nothing is now a real app, shipped in exactly one week.",
+        "points": ["Deploy", "Docs", "Live hand-off"]
+      }
+    ]
+  },
+
+  "mission": {
+    "label": "/ mission",
+    "title1": "I don't just use AI.",
+    "title2": "I orchestrate it.",
+    "paragraphs": [
+      "fromzero.ro exists to prove that software doesn't need months of ceremony. With the right orchestration of AI tools, a focused idea can become a shipped product in seven days.",
+      "The mission is simple: turn the void between \"I have an idea\" and \"I have an app\" into a single, deliberate week of velocity.",
+      "Every build ships as both a web and a mobile version. AI agents are integrated where they add real value — not as a gimmick, but as part of the product's core logic."
+    ],
+    "toolStackLabel": "the tool-stack",
+    "tools": ["LLMs", "AI codegen", "AI agents", "Design systems", "Managed backend", "Auto-test", "Deploy pipelines"],
+    "equation": "Human direction + machine execution = shipped software."
+  },
+
+  "whoami": {
+    "label": "/ who am I",
+    "title1": "25 years of shipping software.",
+    "title2": "Now at AI speed.",
+    "paragraphs": [
+      "I'm a software engineer and engineering leader based in Cluj-Napoca, with 25 years of experience building navigation, infotainment, mobile and cloud products — from Nokia handsets and PDAs to Ford SYNC 4 in-car systems.",
+      "Along the way I've been developer, team lead, Scrum Master, engineering manager and Director of Engineering at Telenav, leading teams of up to 20 engineers across Android, iOS, web and cloud. I'm also a collaborator of the Technical University of Cluj-Napoca.",
+      "fromzero.ro is where that experience meets AI tooling: senior-level architecture, code reviews and quality standards — delivered in a week, not a quarter."
+    ],
+    "linkedin": "View my LinkedIn",
+    "stats": [
+      { "value": "25", "label": "years of experience" },
+      { "value": "20", "label": "engineers led, at peak" },
+      { "value": "3", "label": "platforms: web · mobile · cloud" },
+      { "value": "CSM", "label": "certified scrum master" }
+    ],
+    "careerLabel": "career log",
+    "timeline": [
+      { "years": "2023 – 2026", "role": "Senior Expert Software", "where": "ARRK R&D" },
+      { "years": "2018 – 2023", "role": "Engineering Manager / Director", "where": "Telenav" },
+      { "years": "2014 – 2017", "role": "Team Lead / Scrum Master", "where": "Garmin" },
+      { "years": "2008 – 2014", "role": "Team Lead / Senior Engineer", "where": "Neusoft" },
+      { "years": "2001 – 2008", "role": "Software Engineer → Team Lead", "where": "Navigon · Wirtek · AROBS" }
+    ]
+  },
+
+  "deliverables": {
+    "label": "/ deliverables",
+    "title1": "No vague promises.",
+    "title2": "A real hand-off.",
+    "paragraphs": [
+      "By day 7 you don't get a prototype or a slide deck — you get a shipped product, the keys to it, and the support to keep it running.",
+      "Everything is yours: the code, the project, the deployments. I hand over and step back, on your terms."
+    ],
+    "listLabel": "what you get on day 7",
+    "items": [
+      "Live web app",
+      "Installable Android & iOS builds (APK / TestFlight)",
+      "Full source code",
+      "Setup & usage docs",
+      "14 days of bug fixes"
+    ]
+  },
+
+  "scope": {
+    "label": "/ scope",
+    "title1": "What fits in a week —",
+    "title2": "And what doesn't.",
+    "intro": "Honest boundaries keep the one-week model real. Here's what a single sprint can deliver, and what needs a longer runway.",
+    "fitsLabel": "fits in a week",
+    "fits": [
+      "Login & user accounts",
+      "Core flows",
+      "Admin dashboard",
+      "AI feature (chat, OCR, summaries)",
+      "Payments & notifications"
+    ],
+    "moreLabel": "needs more than a week",
+    "more": [
+      "Mobile app distribution in stores",
+      "Complex integrations",
+      "Offline-first sync"
+    ]
+  },
+
+  "needs": {
+    "label": "/ your part",
+    "title1": "What I need from you",
+    "title2": "to ship in 7 days.",
+    "intro": "A one-week build is a team effort. These few things on your side are what make the deadline possible.",
+    "items": [
+      { "title": "One decision-maker", "body": "A single person who can approve the scope and give feedback, so decisions take minutes, not meetings." },
+      { "title": "Replies within 24 hours", "body": "During the build week, questions get answered the same or the next day. A short daily check-in keeps us in sync." },
+      { "title": "Accounts in your name", "body": "Domain, hosting, Apple & Google developer accounts, and any paid services (AI, payments) — set up before day 1. Apple's approval alone can take a few days." },
+      { "title": "Content & branding", "body": "Logo, colors, texts and images. If they're not ready, I'll use clean placeholders you can swap later." },
+      { "title": "A frozen scope", "body": "Once the build starts, new ideas go on a v2 list instead of into this week. That's what keeps the 7 days real." },
+      { "title": "Testing on days 6–7", "body": "Time to try the app yourself and confirm the hand-off, so launch day has no surprises." }
+    ],
+    "note": "If something on your side is delayed, the delivery date moves by the same amount, never the quality."
+  },
+
+  "pricing": {
+    "label": "/ pricing",
+    "title1": "One fixed price.",
+    "title2": "Paid on delivery.",
+    "intro": "No hourly billing and no advance payment. Once we've agreed on the scope, you get a fixed price for the entire build, and you pay only when your app is live and handed over to you.",
+    "steps": [
+      { "title": "Scope call", "body": "We agree on what the app does." },
+      { "title": "Fixed price", "body": "One number for the whole build." },
+      { "title": "7-day build", "body": "You follow progress daily." },
+      { "title": "Pay on delivery", "body": "Only once the app is live." }
+    ],
+    "includedLabel": "included in the price",
+    "included": [
+      "Web & mobile apps",
+      "Deployment to production",
+      "Full source code & docs",
+      "14 days of bug fixes"
+    ],
+    "excludedLabel": "not included — on your accounts",
+    "excluded": [
+      "Hosting & domain",
+      "Apple App Store & Google Play developer accounts",
+      "Ongoing AI / API usage (e.g. LLM providers)"
+    ],
+    "excludedNote": "These run in your name and are billed to you directly by each provider, so you own every account and every deployment from day one.",
+    "afterTitle": "After the 14 days",
+    "afterBody": "Maintenance is optional: on demand when you need it, or as a monthly subscription. Priced on request.",
+    "cta": "Get your fixed price"
+  },
+
+  "book": {
+    "label": "/ start your project",
+    "title": "Project briefing room",
+    "intro": "Tell me what you want to build. If it fits the one-week model, we'll agree on the scope and a fixed price together.",
+    "ready": "System ready",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@email.com",
+    "projectLabel": "What do you want to build?",
+    "projectPlaceholder": "A short description of your app idea…",
+    "submit": "Start your project",
+    "sending": "Sending…",
+    "privacyNote": "I use these details only to reply to your request. See the [privacy policy](/privacy).",
+    "doneTitle": "Briefing received",
+    "doneBody": "Thanks — I'll reach out within 24 hours to schedule a short scope call.",
+    "again": "Submit another",
+    "errorGeneric": "Something went wrong. Please try again.",
+    "errorInvalid": "Please check the fields and try again.",
+    "errorRateLimit": "Too many requests. Please try again in a few minutes."
+  },
+
+  "footer": {
+    "privacy": "Privacy & GDPR",
+    "tagline": "Built from zero · powered by AI"
+  },
+
+  "privacy": {
+    "back": "Back",
+    "label": "/ privacy",
+    "title1": "Your data,",
+    "title2": "handled plainly.",
+    "intro": "This page explains what personal data fromzero.ro collects, why, and what control you have over it, in line with the EU General Data Protection Regulation (GDPR).",
+    "controllerLabel": "data controller",
+    "lastUpdated": "Last updated: 8 October 2026",
+    "sections": [
+      {
+        "title": "What we collect",
+        "items": [
+          "**Project requests.** When you use the “Start your project” form: your name, your email address and the project description you write, together with the date and time of the request and the IP address it was sent from.",
+          "**Technical logs.** Like any web server, ours records basic request data (IP address, browser type, page requested, time) to keep the site secure and working.",
+          "**Emails.** If you write to us, we keep the correspondence."
+        ]
+      },
+      {
+        "title": "Why we use it and on what legal basis",
+        "items": [
+          "To reply to your request, discuss the scope and prepare an offer: steps taken at your request before entering into a contract (GDPR Art. 6(1)(b)).",
+          "To protect the site against abuse (for example, limiting repeated form submissions): our legitimate interest in keeping the service secure (Art. 6(1)(f)).",
+          "If we work together, to deliver the project, invoice and meet our legal accounting obligations (Art. 6(1)(b) and 6(1)(c))."
+        ]
+      },
+      {
+        "title": "What we don't do",
+        "items": [
+          "No cookies, no analytics, no tracking pixels and no advertising. The only thing stored in your browser is your language choice.",
+          "We never sell your data and never use it for newsletters you didn't ask for.",
+          "No automated decision-making or profiling."
+        ]
+      },
+      {
+        "title": "Who processes it",
+        "items": [
+          "**Contabo GmbH** (Germany): hosts the website, the form data and our email server, inside the EU.",
+          "**Google**: request notifications are also delivered to a Gmail inbox. Google may process data outside the EU under the EU–US Data Privacy Framework and standard contractual clauses.",
+          "**Google Fonts**: the site loads its fonts from Google's servers, which receive your IP address when the page loads."
+        ]
+      },
+      {
+        "title": "How long we keep it",
+        "items": [
+          "Project requests that don't lead to a collaboration: up to 12 months, then deleted.",
+          "Data from projects we work on: for the duration of the project, plus the period required by Romanian accounting law for invoices and contracts.",
+          "Server logs: up to 14 days."
+        ]
+      },
+      {
+        "title": "Your rights",
+        "items": [
+          "You can ask to access, correct or delete your data, restrict or object to its processing, or receive it in a portable format. Just write to [{email}](mailto:{email}); we reply within 30 days.",
+          "You also have the right to complain to the Romanian data protection authority, ANSPDCP ([dataprotection.ro](https://www.dataprotection.ro))."
+        ]
+      }
+    ]
+  },
+
+  "notFound": {
+    "title": "Page not found",
+    "body": "The page \"{page}\" doesn't exist.",
+    "home": "Go home"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "code": "ro",
+    "label": "RO",
+    "name": "Română",
+    "htmlLang": "ro",
+    "clock": "Europe/Bucharest",
+    "title": "fromzero — MVP-uri construite într-o săptămână",
+    "description": "De la zero la un MVP funcțional într-o săptămână."
+  },
+
+  "nav": {
+    "how": "Cum lucrez",
+    "mission": "Misiune",
+    "whoami": "Despre mine",
+    "deliverables": "Livrabile",
+    "scope": "Ce intră",
+    "pricing": "Preț",
+    "cta": "Începe proiectul",
+    "language": "Limbă"
+  },
+
+  "hero": {
+    "status": "Sistem online",
+    "clockSuffix": "ora României",
+    "titleFrom": "De la",
+    "titleZero": "zero",
+    "titleTo": "la",
+    "titleLive": "LIVE",
+    "titleIn": "în",
+    "titleDays": "7 zile.",
+    "subtitle": "Construiesc aplicații web și mobile — de la zero, într-o săptămână, cu ajutorul unor instrumente AI care comprimă luni de dezvoltare într-un singur sprint concentrat.",
+    "ctaPrimary": "Începe proiectul",
+    "ctaSecondary": "Vezi procesul",
+    "stats": [
+      { "value": "7", "label": "zile", "accent": false },
+      { "value": "14", "label": "zile suport", "accent": false },
+      { "value": "100%", "label": "codul tău", "accent": true }
+    ],
+    "imageAlt": "Structură abstractă care prinde formă din lumină",
+    "projectedLaunch": "Lansare estimată"
+  },
+
+  "how": {
+    "label": "/ cum lucrez",
+    "title": "O săptămână, trei etape.",
+    "intro": "Ciclul de 7 zile are un ritm strâns și previzibil — știi mereu ce se întâmplă și ce urmează.",
+    "phases": [
+      {
+        "days": "Zilele 1–2",
+        "title": "Analiză & design",
+        "body": "Stabilesc scope-ul, schițez fluxurile utilizatorului și fixez arhitectura. AI-ul ajută la specificații, texte și validarea ideilor înainte de prima linie de cod.",
+        "points": ["Scope fixat", "Fluxuri schițate", "Specificații asistate de AI"]
+      },
+      {
+        "days": "Zilele 3–5",
+        "title": "Construcție",
+        "body": "Aplicația prinde contur rapid. Schelet generat cu AI, componente generate și teste automate transformă planul în software funcțional — cu iterații zilnice.",
+        "points": ["Schelet generat cu AI", "Build-uri zilnice", "Teste automate"]
+      },
+      {
+        "days": "Zilele 6–7",
+        "title": "Lansare & predare",
+        "body": "Finisez, pun aplicația online și predau un produs live, cu documentație. Ce a pornit de la nimic e acum o aplicație reală, livrată în exact o săptămână.",
+        "points": ["Deploy", "Documentație", "Predare live"]
+      }
+    ]
+  },
+
+  "mission": {
+    "label": "/ misiune",
+    "title1": "Nu doar folosesc AI.",
+    "title2": "Îl orchestrez.",
+    "paragraphs": [
+      "fromzero.ro există ca să arate că software-ul nu are nevoie de luni de formalități. Cu instrumentele AI potrivite, bine orchestrate, o idee clară poate deveni un produs livrat în șapte zile.",
+      "Misiunea e simplă: să transform golul dintre „am o idee” și „am o aplicație” într-o singură săptămână de lucru intens și bine țintit.",
+      "Fiecare proiect e livrat atât ca aplicație web, cât și ca aplicație mobilă. Agenții AI sunt integrați acolo unde aduc valoare reală — nu ca gadget, ci ca parte din logica produsului."
+    ],
+    "toolStackLabel": "instrumentele",
+    "tools": ["LLM-uri", "Generare de cod cu AI", "Agenți AI", "Design systems", "Backend gestionat", "Testare automată", "Pipeline-uri de deploy"],
+    "equation": "Direcție umană + execuție automată = software livrat."
+  },
+
+  "whoami": {
+    "label": "/ despre mine",
+    "title1": "25 de ani de software livrat.",
+    "title2": "Acum în ritm de AI.",
+    "paragraphs": [
+      "Sunt inginer software și lider de echipe tehnice din Cluj-Napoca, cu 25 de ani de experiență în produse de navigație, infotainment, mobile și cloud — de la telefoane Nokia și PDA-uri până la sistemele Ford SYNC 4 din mașini.",
+      "Am fost pe rând developer, team lead, Scrum Master, engineering manager și Director of Engineering la Telenav, coordonând echipe de până la 20 de ingineri pe Android, iOS, web și cloud. Sunt și colaborator al Universității Tehnice din Cluj-Napoca.",
+      "fromzero.ro e locul unde experiența asta se întâlnește cu instrumentele AI: arhitectură, code review și standarde de calitate de nivel senior — livrate într-o săptămână, nu într-un trimestru."
+    ],
+    "linkedin": "Profilul meu de LinkedIn",
+    "stats": [
+      { "value": "25", "label": "ani de experiență" },
+      { "value": "20", "label": "ingineri coordonați, maxim" },
+      { "value": "3", "label": "platforme: web · mobil · cloud" },
+      { "value": "CSM", "label": "certified scrum master" }
+    ],
+    "careerLabel": "parcurs profesional",
+    "timeline": [
+      { "years": "2023 – 2026", "role": "Senior Expert Software", "where": "ARRK R&D" },
+      { "years": "2018 – 2023", "role": "Engineering Manager / Director", "where": "Telenav" },
+      { "years": "2014 – 2017", "role": "Team Lead / Scrum Master", "where": "Garmin" },
+      { "years": "2008 – 2014", "role": "Team Lead / Senior Engineer", "where": "Neusoft" },
+      { "years": "2001 – 2008", "role": "Software Engineer → Team Lead", "where": "Navigon · Wirtek · AROBS" }
+    ]
+  },
+
+  "deliverables": {
+    "label": "/ livrabile",
+    "title1": "Fără promisiuni vagi.",
+    "title2": "O predare reală.",
+    "paragraphs": [
+      "În ziua 7 nu primești un prototip sau o prezentare — primești un produs livrat, toate cheile lui și suportul ca să funcționeze în continuare.",
+      "Totul e al tău: codul, proiectul, deployment-urile. Predau totul și mă retrag, în ritmul tău."
+    ],
+    "listLabel": "ce primești în ziua 7",
+    "items": [
+      "Aplicație web live",
+      "Build-uri Android & iOS instalabile (APK / TestFlight)",
+      "Codul sursă complet",
+      "Documentație de instalare și utilizare",
+      "14 zile de remediere a bug-urilor"
+    ]
+  },
+
+  "scope": {
+    "label": "/ ce intră",
+    "title1": "Ce intră într-o săptămână —",
+    "title2": "și ce nu.",
+    "intro": "Limitele clare țin modelul de o săptămână realist. Iată ce poate livra un singur sprint și ce are nevoie de mai mult timp.",
+    "fitsLabel": "intră într-o săptămână",
+    "fits": [
+      "Autentificare & conturi de utilizator",
+      "Fluxurile principale",
+      "Panou de administrare",
+      "Funcție AI (chat, OCR, rezumate)",
+      "Plăți & notificări"
+    ],
+    "moreLabel": "are nevoie de mai mult timp",
+    "more": [
+      "Publicarea în App Store / Google Play",
+      "Integrări complexe",
+      "Sincronizare offline-first"
+    ]
+  },
+
+  "needs": {
+    "label": "/ partea ta",
+    "title1": "De ce am nevoie de la tine",
+    "title2": "ca să livrăm în 7 zile.",
+    "intro": "Un proiect de o săptămână e un efort de echipă. Aceste câteva lucruri din partea ta fac termenul posibil.",
+    "items": [
+      { "title": "O singură persoană de decizie", "body": "Cineva care poate aproba scope-ul și da feedback, ca deciziile să se ia în minute, nu în ședințe." },
+      { "title": "Răspuns în 24 de ore", "body": "În săptămâna de lucru, întrebările primesc răspuns în aceeași zi sau a doua zi. O scurtă discuție zilnică ne ține sincronizați." },
+      { "title": "Conturi pe numele tău", "body": "Domeniu, hosting, conturile de dezvoltator Apple & Google și orice serviciu plătit (AI, plăți) — create înainte de ziua 1. Doar aprobarea Apple poate dura câteva zile." },
+      { "title": "Conținut & identitate vizuală", "body": "Logo, culori, texte și imagini. Dacă nu sunt gata, folosesc elemente provizorii pe care le înlocuiești ulterior." },
+      { "title": "Un scope înghețat", "body": "Odată pornit lucrul, ideile noi merg pe o listă pentru v2, nu în săptămâna curentă. Asta ține cele 7 zile realiste." },
+      { "title": "Testare în zilele 6–7", "body": "Timp să încerci aplicația și să confirmi predarea, ca ziua lansării să nu aibă surprize." }
+    ],
+    "note": "Dacă ceva din partea ta întârzie, data livrării se mută cu tot atât — calitatea, niciodată."
+  },
+
+  "pricing": {
+    "label": "/ preț",
+    "title1": "Un preț fix.",
+    "title2": "Plătit la livrare.",
+    "intro": "Fără plată la oră și fără avans. După ce stabilim împreună scope-ul, primești un preț fix pentru tot proiectul și plătești doar când aplicația e live și ți-a fost predată.",
+    "steps": [
+      { "title": "Discuție de scope", "body": "Stabilim ce face aplicația." },
+      { "title": "Preț fix", "body": "O singură sumă pentru tot proiectul." },
+      { "title": "Construcție în 7 zile", "body": "Urmărești progresul zilnic." },
+      { "title": "Plata la livrare", "body": "Doar când aplicația e live." }
+    ],
+    "includedLabel": "inclus în preț",
+    "included": [
+      "Aplicațiile web & mobile",
+      "Deploy în producție",
+      "Codul sursă complet & documentația",
+      "14 zile de remediere a bug-urilor"
+    ],
+    "excludedLabel": "neinclus — pe conturile tale",
+    "excluded": [
+      "Hosting & domeniu",
+      "Conturile de dezvoltator Apple App Store & Google Play",
+      "Costurile ulterioare ale serviciilor AI / API (de ex. furnizori de LLM)"
+    ],
+    "excludedNote": "Acestea sunt pe numele tău și facturate direct de fiecare furnizor, așa că deții fiecare cont și fiecare deployment din prima zi.",
+    "afterTitle": "După cele 14 zile",
+    "afterBody": "Mentenanța e opțională: la cerere, când ai nevoie, sau prin abonament lunar. Prețul se stabilește la cerere.",
+    "cta": "Cere prețul fix"
+  },
+
+  "book": {
+    "label": "/ începe proiectul",
+    "title": "Spune-mi despre proiect",
+    "intro": "Spune-mi ce vrei să construiești. Dacă se potrivește modelului de o săptămână, stabilim împreună scope-ul și un preț fix.",
+    "ready": "Sistem pregătit",
+    "nameLabel": "Nume",
+    "namePlaceholder": "Numele tău",
+    "emailLabel": "Email",
+    "emailPlaceholder": "tu@email.ro",
+    "projectLabel": "Ce vrei să construiești?",
+    "projectPlaceholder": "O scurtă descriere a ideii tale de aplicație…",
+    "submit": "Începe proiectul",
+    "sending": "Se trimite…",
+    "privacyNote": "Folosesc aceste date doar ca să-ți răspund la cerere. Vezi [politica de confidențialitate](/privacy).",
+    "doneTitle": "Cerere primită",
+    "doneBody": "Mulțumesc! Revin în maximum 24 de ore ca să programăm o scurtă discuție despre scope.",
+    "again": "Trimite altă cerere",
+    "errorGeneric": "Ceva n-a mers. Te rog încearcă din nou.",
+    "errorInvalid": "Verifică te rog câmpurile și încearcă din nou.",
+    "errorRateLimit": "Prea multe cereri. Încearcă din nou peste câteva minute."
+  },
+
+  "footer": {
+    "privacy": "Confidențialitate & GDPR",
+    "tagline": "Construit de la zero · cu AI"
+  },
+
+  "privacy": {
+    "back": "Înapoi",
+    "label": "/ confidențialitate",
+    "title1": "Datele tale,",
+    "title2": "explicate simplu.",
+    "intro": "Această pagină explică ce date personale colectează fromzero.ro, de ce și ce control ai asupra lor, conform Regulamentului General privind Protecția Datelor (GDPR).",
+    "controllerLabel": "operatorul datelor",
+    "lastUpdated": "Ultima actualizare: 8 octombrie 2026",
+    "sections": [
+      {
+        "title": "Ce date colectăm",
+        "items": [
+          "**Cererile de proiect.** Când folosești formularul „Începe proiectul”: numele, adresa de email și descrierea proiectului, împreună cu data și ora cererii și adresa IP de pe care a fost trimisă.",
+          "**Loguri tehnice.** Ca orice server web, al nostru înregistrează date de bază despre accesări (adresa IP, tipul browserului, pagina accesată, ora), pentru ca site-ul să fie sigur și funcțional.",
+          "**Emailuri.** Dacă ne scrii, păstrăm corespondența."
+        ]
+      },
+      {
+        "title": "De ce le folosim și pe ce temei legal",
+        "items": [
+          "Ca să-ți răspundem la cerere, să discutăm scope-ul și să pregătim o ofertă: demersuri făcute la cererea ta înainte de încheierea unui contract (GDPR art. 6 alin. (1) lit. b)).",
+          "Ca să protejăm site-ul de abuzuri (de exemplu, limitarea trimiterilor repetate ale formularului): interesul nostru legitim de a menține serviciul sigur (art. 6 alin. (1) lit. f)).",
+          "Dacă lucrăm împreună, ca să livrăm proiectul, să facturăm și să ne îndeplinim obligațiile legale contabile (art. 6 alin. (1) lit. b) și c))."
+        ]
+      },
+      {
+        "title": "Ce nu facem",
+        "items": [
+          "Fără cookie-uri, fără analytics, fără pixeli de tracking și fără reclame. Singurul lucru salvat în browserul tău este limba aleasă.",
+          "Nu vindem niciodată datele tale și nu le folosim pentru newslettere pe care nu le-ai cerut.",
+          "Fără decizii automatizate sau profilare."
+        ]
+      },
+      {
+        "title": "Cine le procesează",
+        "items": [
+          "**Contabo GmbH** (Germania): găzduiește site-ul, datele din formular și serverul nostru de email, în UE.",
+          "**Google**: notificările despre cereri ajung și într-o căsuță Gmail. Google poate procesa date în afara UE, în baza Cadrului UE–SUA privind protecția datelor și a clauzelor contractuale standard.",
+          "**Google Fonts**: site-ul încarcă fonturile de pe serverele Google, care primesc adresa ta IP la încărcarea paginii."
+        ]
+      },
+      {
+        "title": "Cât timp le păstrăm",
+        "items": [
+          "Cererile de proiect care nu duc la o colaborare: maximum 12 luni, apoi sunt șterse.",
+          "Datele din proiectele la care lucrăm: pe durata proiectului, plus perioada cerută de legislația contabilă din România pentru facturi și contracte.",
+          "Logurile serverului: maximum 14 zile."
+        ]
+      },
+      {
+        "title": "Drepturile tale",
+        "items": [
+          "Poți cere acces la datele tale, rectificarea sau ștergerea lor, restricționarea prelucrării, te poți opune prelucrării sau le poți primi într-un format portabil. Scrie-ne la [{email}](mailto:{email}); răspundem în maximum 30 de zile.",
+          "Ai și dreptul de a depune o plângere la autoritatea română pentru protecția datelor, ANSPDCP ([dataprotection.ro](https://www.dataprotection.ro))."
+        ]
+      }
+    ]
+  },
+
+  "notFound": {
+    "title": "Pagina nu există",
+    "body": "Pagina „{page}” nu există.",
+    "home": "Înapoi la pagina principală"
+  }
+}
